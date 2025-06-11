@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second-year student pursuing a degree in software<br>engineering. I am currently seeking an internship<br>opportunity where I can apply my skills in<br>web development, mobile app development, and API development,<br>among others. I am eager to leverage my technical expertise and<br>problem-solving abilities within a dynamic software engineering<br>internship, to contribute to innovative projects and acquire practical<br>industry experience.
+
 
 
 ## 🌐 Socials:
